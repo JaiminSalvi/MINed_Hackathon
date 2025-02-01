@@ -144,14 +144,15 @@ python main.py
 ---
 
 ## Demo
-🎥 *Live Demo Available!* (Insert link here if available)
+🎥 *Live Demo Available!* 
+https://drive.google.com/file/d/1fh8MN2b3GRobpSntig3xUf4xEX1BlIzH/view?usp=sharing
 
 ---
 
 ## Contact & Support
 - *Team Name:* AI Alchemists
 - *Team Leader:* Aagam Shah
-- *Discord ID:* <@1327194739677859841>
+- *Discord ID:* 07aagamshah04
 
 For any questions or support, please feel free to reach out!
 
